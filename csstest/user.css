@@ -35,5 +35,32 @@ body  {
 .content {
 	margin-left: 40px;
 	background-color: #E6E6E6;
+	padding: 10px;
+	
+}
+
+.content table {
+	margin: 20px;
+	
+	
+}
+
+.content th {
+	text-align: left;
+	padding: 10px;
+	vertical-align: top;
 	
 }	
+
+.content td {
+	text-align: left;
+	padding: 10px;
+	vertical-align: top;
+	
+}
+
+.content tr:nth-child(odd) {
+	background-color: white;
+	
+	
+}
