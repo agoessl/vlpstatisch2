@@ -1,0 +1,39 @@
+body  {
+	margin: 0;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	line-height: 27px;
+	color: #333333;
+	background-color: #78807A;
+	
+}
+
+.navbartop {
+	background-color: #333333;
+	
+}
+
+
+.navbartop ul {
+	text-align: left;
+	list-style: none;
+	width: 100%;
+	overflow: auto;
+	border-bottom: 1px solid;
+	
+}	
+	
+.navbartop li {
+	float: left;
+	width: 110px;
+	border: 1px solid white;
+	padding: 5px;
+	margin: 5px;
+	color: white;
+}
+
+.content {
+	margin-left: 40px;
+	background-color: #E6E6E6;
+	
+}	
