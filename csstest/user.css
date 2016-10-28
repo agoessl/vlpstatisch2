@@ -1,7 +1,10 @@
+html {
+	font-size: 15px;
+}
+
 body  {
 	margin: 0;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 18px;
 	line-height: 27px;
 	color: #333333;
 	background-color: #78807A;
@@ -10,14 +13,23 @@ body  {
 
 .navbartop {
 	background-color: #333333;
+	float: auto;
+	margin-bottom: -16px;
+	margin-top: -16px;
+	font-size: 80%;
 	
 }
 
+.navbartop li a {
+	color: white;
+	text-decoration: none;
+	
+}
 
 .navbartop ul {
 	text-align: left;
 	list-style: none;
-	width: 100%;
+	width: auto;
 	overflow: auto;
 	border-bottom: 1px solid;
 	
@@ -25,17 +37,20 @@ body  {
 	
 .navbartop li {
 	float: left;
-	width: 110px;
-	border: 1px solid white;
+	width: 90px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
 	padding: 5px;
 	margin: 5px;
 	color: white;
+	font-weight: bold;
 }
 
 .content {
-	margin-left: 300px;
 	background-color: #E6E6E6;
 	padding: 10px;
+	width: 75%;
+	margin-left: auto;
 	
 }
 
@@ -92,10 +107,17 @@ body  {
 .sidebar {
 	float: left;
 	margin-top: 0px absolute;
-	margin-left: 20px;
+	margin-left: 0px;
 	background-color: #003333;
 	color: white;
-	width: 280px;
+	width: 25%;
+	font-size: 80%;
+	
+}
+
+.sidebar li a {
+	color: white;
+	text-decoration: none;
 	
 }
 
@@ -121,5 +143,40 @@ body  {
 
 .content .topsection {
 	clear: right;
+	
+}
+
+.navbarbottom {
+	background-color: #333333;
+	margin-bottom: -16px;
+	float: auto;
+	margin-top: -16px;
+	font-size: 80%;
+	
+}
+.navbarbottom li a {
+	color: white;
+	text-decoration: none;
+	
+}
+
+.navbarbottom ul {
+	text-align: left;
+	list-style: none;
+	width: 100%;
+	overflow: auto;
+	border-bottom: 1px solid;
+	
+}	
+	
+.navbarbottom li {
+	float: left;
+	width: 90px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	padding: 5px;
+	margin: 5px;
+	color: white;
+	font-weight: bold;
 	
 }
