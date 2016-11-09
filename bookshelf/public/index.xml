@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site </title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2016</rights>
+    <updated>2016-11-09 11:30:15 &#43;0100 CET</updated>
+
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>http://replace-this-with-your-hugo-site.com/post/good-to-great/</link>
+          <pubDate>Wed, 09 Nov 2016 11:30:15 CET</pubDate>
+          <author></author>
+          <guid>http://replace-this-with-your-hugo-site.com/post/good-to-great/</guid>
+          <description>&lt;p&gt;Hallo Welt&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
