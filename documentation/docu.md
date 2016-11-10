@@ -32,6 +32,9 @@
 	  1. Pandoc (Markdown)
 	  1. LaTex (für die Dokumentation), Skim (als PDF Viewer)
 	  1. Hugo
+	  1. Perl Template Toolkit (TT2)
+	  1. RubyFrontier
+	  1. MAMP installiert
 	1. Techniken
 	  1. HTML und CSS
 	  1. TOML
