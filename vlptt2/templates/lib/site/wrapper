@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<meta charset="utf8" />
+	<meta name="generator" content="TT2" />
+	<title>[% template.title %]</title>
+	
+</head>
+
+<body>
+	[
+	% content %]
+	
+</body>
+</html>
