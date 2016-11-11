@@ -1,0 +1,3 @@
+def postMacroFilter(adrPageTable)
+  
+end

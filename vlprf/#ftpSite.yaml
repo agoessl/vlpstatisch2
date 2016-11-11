@@ -1,0 +1,6 @@
+---
+:folder: /Applications/MAMP/htdocs/vlprf
+:method: file
+:islocal: true
+:apacheSite: /Applications/MAMP/htdocs/vlprf
+:apacheURL: http://localhost:8888/vlprf/

@@ -1,0 +1,15 @@
+---
+index: &1
+  :path: !ruby/object:Pathname
+    path: index.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/index.txt
+  :linetext: Startseite
+startseite: *1
+page2: &2
+  :path: !ruby/object:Pathname
+    path: page2.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/page2.txt
+  :linetext: Zweite Seite
+zweite seite: *2
