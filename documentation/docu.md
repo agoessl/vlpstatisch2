@@ -50,7 +50,7 @@ Wie fast alles zu Perl liegt auch TT2 auf CPAN zu finden und kann daher
 	
 installiert werden. Nach der erfolgten Installation mussten die einzelnen Dateien und Verzeichnisse angelegt werden. Dafür wurde folgende Ordnerstruktur benötigt: 
 
-![Ordnerstruktur TT2](./screenshot1.jpg)
+![Ordnerstruktur TT2](/Users/admin/Documents/git/vlp/vlpstatisch2/documentation/images/screenshot1.jpg)
 
 	  
 ## Projektmanagent
