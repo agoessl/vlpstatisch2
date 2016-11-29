@@ -13,3 +13,10 @@ page2: &2
     path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/page2.txt
   :linetext: Zweite Seite
 zweite seite: *2
+'4748': &3
+  :path: !ruby/object:Pathname
+    path: 4748.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/4748.txt
+  :linetext: VLP 4748
+vlp 4748: *3

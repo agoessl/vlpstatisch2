@@ -3,6 +3,10 @@
 
 <head>
 	<%= metatags() %>
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="user.css" type="text/css" />
+	<%= linkstylesheets() %>
 	<title><%= title %></title>
+	
 </head>
 <%= bodytag() %>

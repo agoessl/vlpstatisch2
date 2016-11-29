@@ -87,7 +87,7 @@ Die Option `recursion` ist wegen der Namensgleichheit mit der vorherigen Version
 
 Um die Installation zu testen, habe ich einige Testdateien in `templates/src` angelegt. Als erstes eine `index.html` mit diesem Inhalt angelegt:
 
-~~~{html}
+~~~ html
 [% META title = "Template Toolkit Test" %]
 
 <h1>[% template.title %]</h1>
@@ -106,7 +106,7 @@ Und in der `templates/lib/config` habe ich eine Datei `main` angelegt, die den I
 
 In das Verzeichnis `template/lib/site` wurde die Datei `wrapper` erstellt, die ein einfaches HTML5-Grundgerüst für den Test enthält.
 
-~~~{html}
+~~~ html
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -124,6 +124,11 @@ In das Verzeichnis `template/lib/site` wurde die Datei `wrapper` erstellt, die e
 ~~~
 
 An diesen drei Dateien kann man die Arbeitsweise des Perl Template Toolkits erkennen. Ersetzungen, im TT2-Jargon *Direktiven* genannt, werden mit `[% … %]` geklammert. Diese Direktiven ersetzt TT2 durch die entsprechenden Werte der Quell- und Konfig-Dateien. 
+
+### Installation RubyFrontier
+
+
+
 
 
 ## Projektmanagent
