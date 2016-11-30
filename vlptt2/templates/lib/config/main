@@ -1,1 +1,4 @@
-[% message = "Hallo TT2 Welt!" -%]
+[% PROCESS config/page
+		+ config/url
+		message = "Hallo Welt!"
+-%]

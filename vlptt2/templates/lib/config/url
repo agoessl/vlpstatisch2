@@ -1,0 +1,7 @@
+[% site.url = {
+				root = rooturl
+				home = "$rooturl/index.html"
+				images = "$rooturl/images"
+				css = "$rooturl/css"
+			}
+-%]

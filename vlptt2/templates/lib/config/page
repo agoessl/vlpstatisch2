@@ -1,0 +1,10 @@
+[% USE Date;
+	# Die Datenstruktur der Seiten definieren
+	page = {
+			file = template.name
+			title = template.title
+			about = template.about or ""
+			type = template.type or "html"
+			date = template.date or Date.formate(template.modtime)
+		};
+-%]

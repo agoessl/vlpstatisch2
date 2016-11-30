@@ -1,14 +1,9 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-	<meta charset="utf8" />
-	<meta name="generator" content="TT2" />
-	<title>[% template.title %]</title>
-	
-</head>
-
-<body>
-	[% content %]
-	
-</body>
-</html>
+[% SWITCH page.type;
+	CASE "text";
+		content;
+	CASE "html";
+		content WRAPPER site/html;
+	CASE;
+		THROW page.type "invalid page type";
+END;
+-%]
