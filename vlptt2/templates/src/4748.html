@@ -1,9 +1,15 @@
-[% META title = "VLP 4748" %]
+[% META title = "VLP 4748" 
+	 	source = "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg
+		& Sohn"
+		people = "Werner Müller"
+		desc = "A pair of Bellows"
+		figcap = "Blasebalg"
+%]
 
 <div class="topsection">	
 	<div class="figure">
 		<img src="[% site.url.images%]/img4748.jpg">
-		<p class="figcaption">Blasebalg</p>		
+		<p class="figcaption">[% template.figcap %]</p>		
 	</div>	
 	<div class="head">
 		<h1>[% template.title %]</h1>
@@ -14,10 +20,10 @@
 	<tr>
 		<th>Source</th>
 		<td>
-			&nbsp;
+			[% template.source %]
 		</td>
 	</tr><tr>
-			  <th>People</th><td>&nbsp;</td>
+			  <th>People</th><td>[% template.people %]</td>
 	</tr><tr>
 			  <th>Sites</th><td>&nbsp;</td>
 	</tr><tr>
@@ -25,7 +31,7 @@
 	</tr><tr>
 			  <th>Comment</th><td>&nbsp;</td>
 	</tr><tr>
-			  <th>Description</th><td>&nbsp;</td>
+			  <th>Description</th><td>[% template.desc %]</td>
 	</tr>
 				
 </table>
