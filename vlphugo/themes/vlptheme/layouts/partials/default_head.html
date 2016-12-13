@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    {{ .Hugo.Generator }}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css">
+
+    <title>{{ .Title }}</title>
+    <meta property='og:title' content="{{ .Title }}">
+    <meta property="og:type" content="website">
+
+  </head>
+
+  <body>
+
+    <header class="site">
+	  <div class="navbartop">
+	  	<ul class="navbarul">
+	  		<li><a href="#">Essays</a></li>
+	  		<li><a href="#">Experiments</a></li>
+	  		<li><a href="#">Technology</a></li>
+	  		<li><a href="#">Objects</a></li>
+	  		<li><a href="#">Sites</a></li>
+	  		<li><a href="#">People</a></li>
+	  		<li><a href="#">Concepts</a></li>
+	  		<li><a href="#">Library</a></li>
+	  	</ul>	
+	  </div>
+    </header>
+
+    <div class="container site">
+

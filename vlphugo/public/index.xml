@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:8888/vlphugo/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://localhost:8888/vlphugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VLP 4748</title>
+      <link>http://localhost:8888/vlphugo/post/4748/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8888/vlphugo/post/4748/</guid>
+      <description>&lt;div class=&#34;topsection&#34;&gt;	
+	&lt;div class=&#34;figure&#34;&gt;
+		&lt;img src=&#34;images/img4748.jpg&#34; class=&#34;fig&#34;&gt;
+		&lt;p class=&#34;figcaption&#34;&gt;{{ figcap }}&lt;/p&gt;		
+	&lt;/div&gt;	
+	&lt;div class=&#34;head&#34;&gt;
+		&lt;h1&gt;{{ desc }}&lt;/h1&gt;
+	 &lt;/div&gt; &lt;br clear=&#34;all&#34; /&gt;
+&lt;/div&gt; &lt;!-- topsection --&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Source&lt;/th&gt;
+		&lt;td&gt;
+			{{ source }}
+		&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr&gt;
+			  &lt;th&gt;People&lt;/th&gt;&lt;td&gt;{{ people }}&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr&gt;
+			  &lt;th&gt;Sites&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr&gt;
+			  &lt;th&gt;Related Literature&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr&gt;
+			  &lt;th&gt;Comment&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+	&lt;/tr&gt;&lt;tr&gt;
+			  &lt;th&gt;Description&lt;/th&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+	&lt;/tr&gt;
+				
+&lt;/table&gt;
+		
+</description>
+    </item>
+    
+  </channel>
+</rss>
