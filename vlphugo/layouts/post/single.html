@@ -5,8 +5,14 @@
  {{ partial "head.html" .}}
 
 <body>
+	
+	{{ partial "navbartop.html" .}}
+	{{ partial "sidebar.html" .}}
 
 	{{ .Content }}
+	
+	{{ partial "navbarbottom.html" .}}
+
 
 </body>
 
