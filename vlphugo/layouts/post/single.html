@@ -10,10 +10,39 @@
 	{{ partial "sidebar.html" .}}
 
 	{{ .Content }}
+
+<div class="content">
+		<div class="topsection">	
+			<div class="figure">
+				<img class="fig" src="/vlphugo/images/img4748.jpg" />
+				<p class="figcaption">{{ .Params.figcaption }}</p>		
+			</div>	
+			<div class="head">
+				<h1>{{ .Params.header }}</h1>
+	   	 	</div> <br clear="all" />
+  	 	</div> <!-- topsection -->
+		<table>
+			<tr>
+				<th>Source</th>
+				<td>
+					{{ .Params.source }}
+				</td>
+			</tr><tr>
+			   	<th>People</th><td>{{ .Params.people }}</td>
+			</tr><tr>
+			   	<th>Sites</th><td>{{ .Params.sites }}</td>
+			</tr><tr>
+			   	<th>Related Literature</th><td>{{ .Params.literature }}</td>
+			</tr><tr>
+			   	<th>Comment</th><td>{{ .Params.comment }}</td>
+			</tr><tr>
+			   	<th>Description</th><td>{{ .Params.description }}</td>
+			</tr>
+			</table>
+</div> <!-- content -->
 	
 	{{ partial "navbarbottom.html" .}}
-
-
+	
 </body>
 
 </html>
