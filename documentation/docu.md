@@ -1,5 +1,29 @@
-% Dokumentation VLP-Statisch
-% Angelique Gößl
+% Projektdokumentation
+% Zugangsmöglichkeiten zu abgeschlossenen Webprojekten ohne größeren Wartungsaufwand und zukunftssicher. 
+
+
+# Auszubildene: Angelique Gößl
+# Anschrift: Heckelberger Ring 12	
+	     Berlin 13055
+# Telefonnummer: 015779644647
+# E-Mail-Adresse: agoessl@mpiwg-berlin.mpg.de
+
+# Prüflingsnummer: 
+
+# Abschlussprüfung: Sommer 2017
+
+# Ausbildungsberuf: Fachinformatikerin für Systemintegration
+
+# Ausbildungsbetrieb: Max-Planck-Institut für Wissenschaftgeschichte
+			 Boltzmannstr. 22
+			 14195 Berlin
+
+
+
+
+
+
+
 
 ## Einleitung
 
