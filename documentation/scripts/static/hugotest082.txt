@@ -1,0 +1,14 @@
++++
+date = "20-01-2017"
+description = "Test"
+title = "VLP082"
+type = "post"
+header = "Machines"
+figcaption = "Strube- Schlanstedt: Ausdreschen der Vermehrungsparzellen des Zuchtgartens mittels einer Spezialdreschmaschine"
+source = "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
+people = "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
+sites = "Physiological Institute, University of Leipzig (1877)"
+literature = "Westphal, Rudolf. 1865. Geschichte der alten und mittelalterlichen Musik. Breslau: F. E. C. Leuckart (Staatliches Institut für Musikforschung)"
+comment = "According to Przybyszewski, one effect of excess in the brain caused by inhibition is a pathologically increased sensitivity."
+<img src='images/img26707.jpg'>
++++

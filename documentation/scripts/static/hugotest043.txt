@@ -1,0 +1,14 @@
++++
+date = "20-01-2017"
+description = "Test"
+title = "VLP043"
+type = "post"
+header = "A pair of Bellows "
+figcaption = "Rümkersche Körnerwaage"
+source = "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
+people = "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
+sites = "Physiological Institute, University of Leipzig (1909)"
+literature = "Westphal, Rudolf. 1865. Geschichte der alten und mittelalterlichen Musik. Breslau: F. E. C. Leuckart (Staatliches Institut für Musikforschung)"
+comment = "In the late 1840s, the pathologist Rudolf Virchow recognized that most of the cells in the brain could be categorized into two distinct groups."
+<img src='images/img4439.jpg'>
++++

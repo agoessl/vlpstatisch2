@@ -1,0 +1,14 @@
++++
+date = "20-01-2017"
+description = "Test"
+title = "VLP005"
+type = "post"
+header = "Treshingmashine"
+figcaption = "Heine-Hadmersleben, Apparate"
+source = "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
+people = "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
+sites = "Physiological Institute, University of Leipzig (1877)"
+literature = "Aeby, Christoph. 1862. Untersuchungen über die Fortpflanzungsgeschwindigkeit der Reizung in der quergestreiften Muskelfaser. Braunschweig: George Westermann"
+comment = "Przybyszewski, who was one of Waldeyer's students, made his literary debut in 1892 with Zur Psychologie des Individuums (The Psychology of the Individual)."
+<img src='images/img26678.jpg'>
++++

@@ -1,0 +1,14 @@
++++
+date = "20-01-2017"
+description = "Test"
+title = "VLP054"
+type = "post"
+header = "Rümker's balance for grain"
+figcaption = "Blasebalg"
+source = "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
+people = "Hering, Karl Ewald Konstantin (1834-1918)"
+sites = "Physiological Institute, University of Leipzig (1909)"
+literature = "Aeby, Christoph. 1862. Untersuchungen über die Fortpflanzungsgeschwindigkeit der Reizung in der quergestreiften Muskelfaser. Braunschweig: George Westermann"
+comment = "Przybyszewski, who was one of Waldeyer's students, made his literary debut in 1892 with Zur Psychologie des Individuums (The Psychology of the Individual)."
+<img src='images/img4407.jpg'>
++++

@@ -1,0 +1,14 @@
++++
+date = "20-01-2017"
+description = "Test"
+title = "VLP057"
+type = "post"
+header = "Machines"
+figcaption = "Blasebalg"
+source = "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
+people = "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
+sites = "Physiological Institute, University of Leipzig (1909)"
+literature = "Westphal, Rudolf. 1865. Geschichte der alten und mittelalterlichen Musik. Breslau: F. E. C. Leuckart (Staatliches Institut für Musikforschung)"
+comment = "In the late 1840s, the pathologist Rudolf Virchow recognized that most of the cells in the brain could be categorized into two distinct groups."
+<img src='images/img4407.jpg'>
++++

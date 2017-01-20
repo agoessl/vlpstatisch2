@@ -1,0 +1,14 @@
++++
+date = "20-01-2017"
+description = "Test"
+title = "VLP072"
+type = "post"
+header = "Rümker's balance for grain"
+figcaption = "Heine-Hadmersleben, Apparate"
+source = "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
+people = "Hering, Karl Ewald Konstantin (1834-1918)"
+sites = "Physiological Institute, University of Leipzig (1909)"
+literature = "Lange, Carl. 1887. Ueber Gemüthsbewegungen. Eine psycho-physiologische Studie. Leipzig: Thomas"
+comment = "Przybyszewski, who was one of Waldeyer's students, made his literary debut in 1892 with Zur Psychologie des Individuums (The Psychology of the Individual)."
+<img src='images/img26820.jpg'>
++++
