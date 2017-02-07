@@ -41,12 +41,12 @@ myNow = dt.datetime.now()
 myDay = str(myNow.day).rjust(2, "0")
 myMonth = str(myNow.month).rjust(2, "0")
 myYear = str(myNow.year)
-myDate = myDay + "-" + myMonth + "-" + myYear
+myDate = myYear + "-" + myMonth + "-" + myDay
 
 print(myDate)
 
 for i in range(100):
-    dateihandle =           open("/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/content/post/" + str(i+1).rjust(3, "0") + ".txt", "w")
+    dateihandle =           open("/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/content/post/" + str(i+1).rjust(3, "0") + ".md", "w")
     dateihandle.write("+++\n")
     dateihandle.write("date = \"" + myDate + "\"\n")
     dateihandle.write("description = \"Test\"\n")
@@ -68,7 +68,7 @@ for i in range(100):
     myComment = (myCommentList[r.randint(0, len(myCommentList)-1)])
     dateihandle.write("comment = \"" + myComment + "\"\n")
     myImage = (myImageList[r.randint(0, len(myImageList)-1)])
-    dateihandle.write("images = \"" + myImage + "\"\n" )
+    dateihandle.write("images = \"../images/" + myImage + "\"\n" )
     dateihandle.write("+++\n")
     dateihandle.close()
     

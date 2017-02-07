@@ -1,4 +1,10 @@
-contentDir = "/Users/admin/git/vlp/vlpstatisch2/vlphugo/content/post/"
-baseurl = "http://localhost:8080/vlphugo/"
+contentDir = "/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/content/post/"
+publishDir = "/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/public/"
+layoutDir = "/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/layouts/"
+publishDrafts = false
+disableRSS = true
+disableSitemap = true
+disable404 = true
+baseurl = ""
 languageCode = "de-de"
 title = "VLP Hugo"

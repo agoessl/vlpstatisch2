@@ -3,6 +3,12 @@
   
   <url>
     <loc>http://localhost:8080/vlphugo/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/vlphugo/001/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
