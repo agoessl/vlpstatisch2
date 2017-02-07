@@ -46,7 +46,7 @@ myDate = myDay + "-" + myMonth + "-" + myYear
 print(myDate)
 
 for i in range(100):
-    dateihandle =           open("/Users/admin/Documents/git/vlp/vlpstatisch2/documentation/scripts/static/hugotest" + str(i+1).rjust(3, "0") + ".txt", "w")
+    dateihandle =           open("/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/content/post/" + str(i+1).rjust(3, "0") + ".txt", "w")
     dateihandle.write("+++\n")
     dateihandle.write("date = \"" + myDate + "\"\n")
     dateihandle.write("description = \"Test\"\n")
@@ -68,7 +68,7 @@ for i in range(100):
     myComment = (myCommentList[r.randint(0, len(myCommentList)-1)])
     dateihandle.write("comment = \"" + myComment + "\"\n")
     myImage = (myImageList[r.randint(0, len(myImageList)-1)])
-    dateihandle.write("<img src='images/" + myImage + "'>" "\n")
+    dateihandle.write("images = \"" + myImage + "\"\n" )
     dateihandle.write("+++\n")
     dateihandle.close()
     

@@ -1,3 +1,4 @@
+contentDir = "/Users/admin/git/vlp/vlpstatisch2/vlphugo/content/post/"
 baseurl = "http://localhost:8080/vlphugo/"
 languageCode = "de-de"
-title = "My New Hugo Site"
+title = "VLP Hugo"
