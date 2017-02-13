@@ -1,22 +1,701 @@
 ---
-index: &1
+'001': &1
   :path: !ruby/object:Pathname
-    path: index.html
+    path: 001.html
   :adr: !ruby/object:Pathname
-    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/index.txt
-  :linetext: Startseite
-startseite: *1
-page2: &2
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/001.txt
+  :linetext: VLP001
+vlp001: *1
+'002': &2
   :path: !ruby/object:Pathname
-    path: page2.html
+    path: 002.html
   :adr: !ruby/object:Pathname
-    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/page2.txt
-  :linetext: Zweite Seite
-zweite seite: *2
-'4748': &3
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/002.txt
+  :linetext: VLP002
+vlp002: *2
+'003': &3
   :path: !ruby/object:Pathname
-    path: 4748.html
+    path: 003.html
   :adr: !ruby/object:Pathname
-    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/4748.txt
-  :linetext: VLP 4748
-vlp 4748: *3
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/003.txt
+  :linetext: VLP003
+vlp003: *3
+'004': &4
+  :path: !ruby/object:Pathname
+    path: 004.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/004.txt
+  :linetext: VLP004
+vlp004: *4
+'005': &5
+  :path: !ruby/object:Pathname
+    path: 005.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/005.txt
+  :linetext: VLP005
+vlp005: *5
+'006': &6
+  :path: !ruby/object:Pathname
+    path: 006.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/006.txt
+  :linetext: VLP006
+vlp006: *6
+'007': &7
+  :path: !ruby/object:Pathname
+    path: 007.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/007.txt
+  :linetext: VLP007
+vlp007: *7
+008: &8
+  :path: !ruby/object:Pathname
+    path: 008.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/008.txt
+  :linetext: VLP008
+vlp008: *8
+009: &9
+  :path: !ruby/object:Pathname
+    path: 009.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/009.txt
+  :linetext: VLP009
+vlp009: *9
+'010': &10
+  :path: !ruby/object:Pathname
+    path: 010.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/010.txt
+  :linetext: VLP010
+vlp010: *10
+'011': &11
+  :path: !ruby/object:Pathname
+    path: 011.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/011.txt
+  :linetext: VLP011
+vlp011: *11
+'012': &12
+  :path: !ruby/object:Pathname
+    path: 012.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/012.txt
+  :linetext: VLP012
+vlp012: *12
+'013': &13
+  :path: !ruby/object:Pathname
+    path: 013.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/013.txt
+  :linetext: VLP013
+vlp013: *13
+'014': &14
+  :path: !ruby/object:Pathname
+    path: 014.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/014.txt
+  :linetext: VLP014
+vlp014: *14
+'015': &15
+  :path: !ruby/object:Pathname
+    path: 015.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/015.txt
+  :linetext: VLP015
+vlp015: *15
+'016': &16
+  :path: !ruby/object:Pathname
+    path: 016.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/016.txt
+  :linetext: VLP016
+vlp016: *16
+'017': &17
+  :path: !ruby/object:Pathname
+    path: 017.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/017.txt
+  :linetext: VLP017
+vlp017: *17
+018: &18
+  :path: !ruby/object:Pathname
+    path: 018.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/018.txt
+  :linetext: VLP018
+vlp018: *18
+019: &19
+  :path: !ruby/object:Pathname
+    path: 019.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/019.txt
+  :linetext: VLP019
+vlp019: *19
+'020': &20
+  :path: !ruby/object:Pathname
+    path: 020.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/020.txt
+  :linetext: VLP020
+vlp020: *20
+'021': &21
+  :path: !ruby/object:Pathname
+    path: 021.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/021.txt
+  :linetext: VLP021
+vlp021: *21
+'022': &22
+  :path: !ruby/object:Pathname
+    path: 022.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/022.txt
+  :linetext: VLP022
+vlp022: *22
+'023': &23
+  :path: !ruby/object:Pathname
+    path: 023.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/023.txt
+  :linetext: VLP023
+vlp023: *23
+'024': &24
+  :path: !ruby/object:Pathname
+    path: 024.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/024.txt
+  :linetext: VLP024
+vlp024: *24
+'025': &25
+  :path: !ruby/object:Pathname
+    path: 025.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/025.txt
+  :linetext: VLP025
+vlp025: *25
+'026': &26
+  :path: !ruby/object:Pathname
+    path: 026.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/026.txt
+  :linetext: VLP026
+vlp026: *26
+'027': &27
+  :path: !ruby/object:Pathname
+    path: 027.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/027.txt
+  :linetext: VLP027
+vlp027: *27
+028: &28
+  :path: !ruby/object:Pathname
+    path: 028.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/028.txt
+  :linetext: VLP028
+vlp028: *28
+029: &29
+  :path: !ruby/object:Pathname
+    path: 029.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/029.txt
+  :linetext: VLP029
+vlp029: *29
+'030': &30
+  :path: !ruby/object:Pathname
+    path: 030.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/030.txt
+  :linetext: VLP030
+vlp030: *30
+'031': &31
+  :path: !ruby/object:Pathname
+    path: 031.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/031.txt
+  :linetext: VLP031
+vlp031: *31
+'032': &32
+  :path: !ruby/object:Pathname
+    path: 032.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/032.txt
+  :linetext: VLP032
+vlp032: *32
+'033': &33
+  :path: !ruby/object:Pathname
+    path: 033.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/033.txt
+  :linetext: VLP033
+vlp033: *33
+'034': &34
+  :path: !ruby/object:Pathname
+    path: 034.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/034.txt
+  :linetext: VLP034
+vlp034: *34
+'035': &35
+  :path: !ruby/object:Pathname
+    path: 035.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/035.txt
+  :linetext: VLP035
+vlp035: *35
+'036': &36
+  :path: !ruby/object:Pathname
+    path: 036.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/036.txt
+  :linetext: VLP036
+vlp036: *36
+'037': &37
+  :path: !ruby/object:Pathname
+    path: 037.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/037.txt
+  :linetext: VLP037
+vlp037: *37
+038: &38
+  :path: !ruby/object:Pathname
+    path: 038.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/038.txt
+  :linetext: VLP038
+vlp038: *38
+039: &39
+  :path: !ruby/object:Pathname
+    path: 039.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/039.txt
+  :linetext: VLP039
+vlp039: *39
+'040': &40
+  :path: !ruby/object:Pathname
+    path: 040.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/040.txt
+  :linetext: VLP040
+vlp040: *40
+'041': &41
+  :path: !ruby/object:Pathname
+    path: 041.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/041.txt
+  :linetext: VLP041
+vlp041: *41
+'042': &42
+  :path: !ruby/object:Pathname
+    path: 042.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/042.txt
+  :linetext: VLP042
+vlp042: *42
+'043': &43
+  :path: !ruby/object:Pathname
+    path: 043.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/043.txt
+  :linetext: VLP043
+vlp043: *43
+'044': &44
+  :path: !ruby/object:Pathname
+    path: 044.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/044.txt
+  :linetext: VLP044
+vlp044: *44
+'045': &45
+  :path: !ruby/object:Pathname
+    path: 045.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/045.txt
+  :linetext: VLP045
+vlp045: *45
+'046': &46
+  :path: !ruby/object:Pathname
+    path: 046.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/046.txt
+  :linetext: VLP046
+vlp046: *46
+'047': &47
+  :path: !ruby/object:Pathname
+    path: 047.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/047.txt
+  :linetext: VLP047
+vlp047: *47
+048: &48
+  :path: !ruby/object:Pathname
+    path: 048.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/048.txt
+  :linetext: VLP048
+vlp048: *48
+049: &49
+  :path: !ruby/object:Pathname
+    path: 049.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/049.txt
+  :linetext: VLP049
+vlp049: *49
+'050': &50
+  :path: !ruby/object:Pathname
+    path: 050.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/050.txt
+  :linetext: VLP050
+vlp050: *50
+'051': &51
+  :path: !ruby/object:Pathname
+    path: 051.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/051.txt
+  :linetext: VLP051
+vlp051: *51
+'052': &52
+  :path: !ruby/object:Pathname
+    path: 052.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/052.txt
+  :linetext: VLP052
+vlp052: *52
+'053': &53
+  :path: !ruby/object:Pathname
+    path: 053.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/053.txt
+  :linetext: VLP053
+vlp053: *53
+'054': &54
+  :path: !ruby/object:Pathname
+    path: 054.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/054.txt
+  :linetext: VLP054
+vlp054: *54
+'055': &55
+  :path: !ruby/object:Pathname
+    path: 055.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/055.txt
+  :linetext: VLP055
+vlp055: *55
+'056': &56
+  :path: !ruby/object:Pathname
+    path: 056.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/056.txt
+  :linetext: VLP056
+vlp056: *56
+'057': &57
+  :path: !ruby/object:Pathname
+    path: 057.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/057.txt
+  :linetext: VLP057
+vlp057: *57
+058: &58
+  :path: !ruby/object:Pathname
+    path: 058.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/058.txt
+  :linetext: VLP058
+vlp058: *58
+059: &59
+  :path: !ruby/object:Pathname
+    path: 059.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/059.txt
+  :linetext: VLP059
+vlp059: *59
+'060': &60
+  :path: !ruby/object:Pathname
+    path: 060.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/060.txt
+  :linetext: VLP060
+vlp060: *60
+'061': &61
+  :path: !ruby/object:Pathname
+    path: 061.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/061.txt
+  :linetext: VLP061
+vlp061: *61
+'062': &62
+  :path: !ruby/object:Pathname
+    path: 062.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/062.txt
+  :linetext: VLP062
+vlp062: *62
+'063': &63
+  :path: !ruby/object:Pathname
+    path: 063.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/063.txt
+  :linetext: VLP063
+vlp063: *63
+'064': &64
+  :path: !ruby/object:Pathname
+    path: 064.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/064.txt
+  :linetext: VLP064
+vlp064: *64
+'065': &65
+  :path: !ruby/object:Pathname
+    path: 065.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/065.txt
+  :linetext: VLP065
+vlp065: *65
+'066': &66
+  :path: !ruby/object:Pathname
+    path: 066.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/066.txt
+  :linetext: VLP066
+vlp066: *66
+'067': &67
+  :path: !ruby/object:Pathname
+    path: 067.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/067.txt
+  :linetext: VLP067
+vlp067: *67
+068: &68
+  :path: !ruby/object:Pathname
+    path: 068.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/068.txt
+  :linetext: VLP068
+vlp068: *68
+069: &69
+  :path: !ruby/object:Pathname
+    path: 069.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/069.txt
+  :linetext: VLP069
+vlp069: *69
+'070': &70
+  :path: !ruby/object:Pathname
+    path: 070.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/070.txt
+  :linetext: VLP070
+vlp070: *70
+'071': &71
+  :path: !ruby/object:Pathname
+    path: 071.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/071.txt
+  :linetext: VLP071
+vlp071: *71
+'072': &72
+  :path: !ruby/object:Pathname
+    path: 072.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/072.txt
+  :linetext: VLP072
+vlp072: *72
+'073': &73
+  :path: !ruby/object:Pathname
+    path: 073.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/073.txt
+  :linetext: VLP073
+vlp073: *73
+'074': &74
+  :path: !ruby/object:Pathname
+    path: 074.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/074.txt
+  :linetext: VLP074
+vlp074: *74
+'075': &75
+  :path: !ruby/object:Pathname
+    path: 075.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/075.txt
+  :linetext: VLP075
+vlp075: *75
+'076': &76
+  :path: !ruby/object:Pathname
+    path: 076.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/076.txt
+  :linetext: VLP076
+vlp076: *76
+'077': &77
+  :path: !ruby/object:Pathname
+    path: 077.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/077.txt
+  :linetext: VLP077
+vlp077: *77
+078: &78
+  :path: !ruby/object:Pathname
+    path: 078.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/078.txt
+  :linetext: VLP078
+vlp078: *78
+079: &79
+  :path: !ruby/object:Pathname
+    path: 079.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/079.txt
+  :linetext: VLP079
+vlp079: *79
+080: &80
+  :path: !ruby/object:Pathname
+    path: 080.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/080.txt
+  :linetext: VLP080
+vlp080: *80
+081: &81
+  :path: !ruby/object:Pathname
+    path: 081.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/081.txt
+  :linetext: VLP081
+vlp081: *81
+082: &82
+  :path: !ruby/object:Pathname
+    path: 082.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/082.txt
+  :linetext: VLP082
+vlp082: *82
+083: &83
+  :path: !ruby/object:Pathname
+    path: 083.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/083.txt
+  :linetext: VLP083
+vlp083: *83
+084: &84
+  :path: !ruby/object:Pathname
+    path: 084.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/084.txt
+  :linetext: VLP084
+vlp084: *84
+085: &85
+  :path: !ruby/object:Pathname
+    path: 085.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/085.txt
+  :linetext: VLP085
+vlp085: *85
+086: &86
+  :path: !ruby/object:Pathname
+    path: 086.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/086.txt
+  :linetext: VLP086
+vlp086: *86
+087: &87
+  :path: !ruby/object:Pathname
+    path: 087.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/087.txt
+  :linetext: VLP087
+vlp087: *87
+088: &88
+  :path: !ruby/object:Pathname
+    path: 088.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/088.txt
+  :linetext: VLP088
+vlp088: *88
+089: &89
+  :path: !ruby/object:Pathname
+    path: 089.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/089.txt
+  :linetext: VLP089
+vlp089: *89
+090: &90
+  :path: !ruby/object:Pathname
+    path: 090.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/090.txt
+  :linetext: VLP090
+vlp090: *90
+091: &91
+  :path: !ruby/object:Pathname
+    path: 091.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/091.txt
+  :linetext: VLP091
+vlp091: *91
+092: &92
+  :path: !ruby/object:Pathname
+    path: 092.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/092.txt
+  :linetext: VLP092
+vlp092: *92
+093: &93
+  :path: !ruby/object:Pathname
+    path: 093.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/093.txt
+  :linetext: VLP093
+vlp093: *93
+094: &94
+  :path: !ruby/object:Pathname
+    path: 094.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/094.txt
+  :linetext: VLP094
+vlp094: *94
+095: &95
+  :path: !ruby/object:Pathname
+    path: 095.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/095.txt
+  :linetext: VLP095
+vlp095: *95
+096: &96
+  :path: !ruby/object:Pathname
+    path: 096.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/096.txt
+  :linetext: VLP096
+vlp096: *96
+097: &97
+  :path: !ruby/object:Pathname
+    path: 097.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/097.txt
+  :linetext: VLP097
+vlp097: *97
+098: &98
+  :path: !ruby/object:Pathname
+    path: 098.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/098.txt
+  :linetext: VLP098
+vlp098: *98
+099: &99
+  :path: !ruby/object:Pathname
+    path: 099.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/099.txt
+  :linetext: VLP099
+vlp099: *99
+'100': &100
+  :path: !ruby/object:Pathname
+    path: 100.html
+  :adr: !ruby/object:Pathname
+    path: /Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/100.txt
+  :linetext: VLP100
+vlp100: *100

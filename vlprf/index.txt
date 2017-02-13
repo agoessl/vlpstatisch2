@@ -1,5 +1,0 @@
-#title "Startseite"
-
-## Hallo Welt
-
-<%= imageref("tattoo", {:widht => "200", :height => "400", :title => "Mein cooles Tattoo"}) %>
