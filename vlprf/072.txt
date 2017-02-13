@@ -1,14 +1,14 @@
 #date "2017-02-13"
 #title "VLP072"
 #type "post"
-#header "Machines"
-#figcaption "Strube- Schlanstedt: Ausdreschen der Vermehrungsparzellen des Zuchtgartens mittels einer Spezialdreschmaschine"
-#source "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
-#people "Hering, Karl Ewald Konstantin (1834-1918)"
-#sites "Physiological Institute, University of Leipzig (1909)"
-#literature "Aeby, Christoph. 1862. Untersuchungen über die Fortpflanzungsgeschwindigkeit der Reizung in der quergestreiften Muskelfaser. Braunschweig: George Westermann"
+#header "Hydrostatic balance"
+#figcaption "Blasebalg"
+#source "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
+#people "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
+#sites "Physiological Institute, University of Leipzig (1877)"
+#literature "Lange, Carl. 1887. Ueber Gemüthsbewegungen. Eine psycho-physiologische Studie. Leipzig: Thomas"
 #comment "Przybyszewski, who was one of Waldeyer's students, made his literary debut in 1892 with Zur Psychologie des Individuums (The Psychology of the Individual)."
-#image "img4748"
+#image "img26820"
 
 <div class="topsection">	
 	<div class="figure">

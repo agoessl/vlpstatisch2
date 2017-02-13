@@ -2,13 +2,13 @@
 #title "VLP046"
 #type "post"
 #header "A pair of Bellows "
-#figcaption "Strube- Schlanstedt: Ausdreschen der Vermehrungsparzellen des Zuchtgartens mittels einer Spezialdreschmaschine"
-#source "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
-#people "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
+#figcaption "Heine-Hadmersleben, Apparate"
+#source "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
+#people "Hering, Karl Ewald Konstantin (1834-1918)"
 #sites "Physiological Institute, University of Leipzig (1877)"
-#literature "Aeby, Christoph. 1862. Untersuchungen über die Fortpflanzungsgeschwindigkeit der Reizung in der quergestreiften Muskelfaser. Braunschweig: George Westermann"
-#comment "In the late 1840s, the pathologist Rudolf Virchow recognized that most of the cells in the brain could be categorized into two distinct groups."
-#image "img4439"
+#literature "Lange, Carl. 1887. Ueber Gemüthsbewegungen. Eine psycho-physiologische Studie. Leipzig: Thomas"
+#comment "According to Przybyszewski, one effect of excess in the brain caused by inhibition is a pathologically increased sensitivity."
+#image "img4407"
 
 <div class="topsection">	
 	<div class="figure">

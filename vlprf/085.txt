@@ -1,14 +1,14 @@
 #date "2017-02-13"
 #title "VLP085"
 #type "post"
-#header "Treshingmashine"
-#figcaption "Hydrostatische Waage"
+#header "Machines"
+#figcaption "Heine-Hadmersleben, Apparate"
 #source "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
 #people "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
-#sites "Physiological Institute, University of Leipzig (1909)"
+#sites "Physiological Institute, University of Leipzig (1877)"
 #literature "Lange, Carl. 1887. Ueber Gemüthsbewegungen. Eine psycho-physiologische Studie. Leipzig: Thomas"
 #comment "By 1900 neuroscientists had established the image of a neural-network brain, whereas their knowledge about glial cells was still at the level of 'nerve glue."
-#image "img26678"
+#image "img4407"
 
 <div class="topsection">	
 	<div class="figure">

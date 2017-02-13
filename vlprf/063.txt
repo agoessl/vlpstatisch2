@@ -1,14 +1,14 @@
 #date "2017-02-13"
 #title "VLP063"
 #type "post"
-#header "Treshingmashine"
-#figcaption "Heine-Hadmersleben, Apparate"
+#header "Machines"
+#figcaption "Rümkersche Körnerwaage"
 #source "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
 #people "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
 #sites "Physiological Institute, University of Leipzig (1877)"
-#literature "Westphal, Rudolf. 1865. Geschichte der alten und mittelalterlichen Musik. Breslau: F. E. C. Leuckart (Staatliches Institut für Musikforschung)"
-#comment "By 1900 neuroscientists had established the image of a neural-network brain, whereas their knowledge about glial cells was still at the level of 'nerve glue."
-#image "img4748"
+#literature "Aeby, Christoph. 1862. Untersuchungen über die Fortpflanzungsgeschwindigkeit der Reizung in der quergestreiften Muskelfaser. Braunschweig: George Westermann"
+#comment "According to Przybyszewski, one effect of excess in the brain caused by inhibition is a pathologically increased sensitivity."
+#image "img4439"
 
 <div class="topsection">	
 	<div class="figure">

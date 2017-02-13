@@ -1,14 +1,14 @@
 #date "2017-02-13"
 #title "VLP019"
 #type "post"
-#header "Hydrostatic balance"
-#figcaption "Heine-Hadmersleben, Apparate"
-#source "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
+#header "Machines"
+#figcaption "Blasebalg"
+#source "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
 #people "Hering, Karl Ewald Konstantin (1834-1918)"
 #sites "Physiological Institute, University of Leipzig (1909)"
 #literature "Lange, Carl. 1887. Ueber Gemüthsbewegungen. Eine psycho-physiologische Studie. Leipzig: Thomas"
 #comment "By 1900 neuroscientists had established the image of a neural-network brain, whereas their knowledge about glial cells was still at the level of 'nerve glue."
-#image "img26820"
+#image "img4748"
 
 <div class="topsection">	
 	<div class="figure">

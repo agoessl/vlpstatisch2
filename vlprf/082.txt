@@ -2,13 +2,13 @@
 #title "VLP082"
 #type "post"
 #header "Machines"
-#figcaption "Heine-Hadmersleben, Apparate"
+#figcaption "Hydrostatische Waage"
 #source "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
 #people "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
-#sites "Physiological Institute, University of Leipzig (1877)"
+#sites "Physiological Institute, University of Leipzig (1909)"
 #literature "Aeby, Christoph. 1862. Untersuchungen über die Fortpflanzungsgeschwindigkeit der Reizung in der quergestreiften Muskelfaser. Braunschweig: George Westermann"
-#comment "Przybyszewski, who was one of Waldeyer's students, made his literary debut in 1892 with Zur Psychologie des Individuums (The Psychology of the Individual)."
-#image "img4407"
+#comment "In the late 1840s, the pathologist Rudolf Virchow recognized that most of the cells in the brain could be categorized into two distinct groups."
+#image "img26707"
 
 <div class="topsection">	
 	<div class="figure">

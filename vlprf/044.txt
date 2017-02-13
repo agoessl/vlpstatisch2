@@ -1,14 +1,14 @@
 #date "2017-02-13"
 #title "VLP044"
 #type "post"
-#header "Rümker's balance for grain"
-#figcaption "Heine-Hadmersleben, Apparate"
+#header "Treshingmashine"
+#figcaption "Hydrostatische Waage"
 #source "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
 #people "Hering, Karl Ewald Konstantin (1834-1918)"
 #sites "Physiological Institute, University of Leipzig (1877)"
 #literature "Aeby, Christoph. 1862. Untersuchungen über die Fortpflanzungsgeschwindigkeit der Reizung in der quergestreiften Muskelfaser. Braunschweig: George Westermann"
-#comment "In the late 1840s, the pathologist Rudolf Virchow recognized that most of the cells in the brain could be categorized into two distinct groups."
-#image "img4407"
+#comment "According to Przybyszewski, one effect of excess in the brain caused by inhibition is a pathologically increased sensitivity."
+#image "img4439"
 
 <div class="topsection">	
 	<div class="figure">

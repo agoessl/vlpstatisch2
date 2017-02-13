@@ -1,14 +1,14 @@
 #date "2017-02-13"
 #title "VLP030"
 #type "post"
-#header "Machines"
-#figcaption "Strube- Schlanstedt: Ausdreschen der Vermehrungsparzellen des Zuchtgartens mittels einer Spezialdreschmaschine"
-#source "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
+#header "Rümker's balance for grain"
+#figcaption "Heine-Hadmersleben, Apparate"
+#source "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
 #people "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
 #sites "Physiological Institute, University of Leipzig (1909)"
-#literature "Westphal, Rudolf. 1865. Geschichte der alten und mittelalterlichen Musik. Breslau: F. E. C. Leuckart (Staatliches Institut für Musikforschung)"
-#comment "In the late 1840s, the pathologist Rudolf Virchow recognized that most of the cells in the brain could be categorized into two distinct groups."
-#image "img26678"
+#literature "Lange, Carl. 1887. Ueber Gemüthsbewegungen. Eine psycho-physiologische Studie. Leipzig: Thomas"
+#comment "By 1900 neuroscientists had established the image of a neural-network brain, whereas their knowledge about glial cells was still at the level of 'nerve glue."
+#image "img4748"
 
 <div class="topsection">	
 	<div class="figure">

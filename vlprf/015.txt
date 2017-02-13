@@ -2,13 +2,13 @@
 #title "VLP015"
 #type "post"
 #header "Machines"
-#figcaption "Heine-Hadmersleben, Apparate"
+#figcaption "Blasebalg"
 #source "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
 #people "Hering, Karl Ewald Konstantin (1834-1918)"
 #sites "Physiological Institute, University of Leipzig (1877)"
-#literature "Aeby, Christoph. 1862. Untersuchungen über die Fortpflanzungsgeschwindigkeit der Reizung in der quergestreiften Muskelfaser. Braunschweig: George Westermann"
-#comment "By 1900 neuroscientists had established the image of a neural-network brain, whereas their knowledge about glial cells was still at the level of 'nerve glue."
-#image "img26678"
+#literature "Lange, Carl. 1887. Ueber Gemüthsbewegungen. Eine psycho-physiologische Studie. Leipzig: Thomas"
+#comment "Przybyszewski, who was one of Waldeyer's students, made his literary debut in 1892 with Zur Psychologie des Individuums (The Psychology of the Individual)."
+#image "img26820"
 
 <div class="topsection">	
 	<div class="figure">

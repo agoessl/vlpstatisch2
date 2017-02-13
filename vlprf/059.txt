@@ -2,13 +2,13 @@
 #title "VLP059"
 #type "post"
 #header "A pair of Bellows "
-#figcaption "Rümkersche Körnerwaage"
+#figcaption "Heine-Hadmersleben, Apparate"
 #source "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
 #people "Hering, Karl Ewald Konstantin (1834-1918)"
-#sites "Physiological Institute, University of Leipzig (1909)"
+#sites "Physiological Institute, University of Leipzig (1877)"
 #literature "Lange, Carl. 1887. Ueber Gemüthsbewegungen. Eine psycho-physiologische Studie. Leipzig: Thomas"
-#comment "In the late 1840s, the pathologist Rudolf Virchow recognized that most of the cells in the brain could be categorized into two distinct groups."
-#image "img4407"
+#comment "Przybyszewski, who was one of Waldeyer's students, made his literary debut in 1892 with Zur Psychologie des Individuums (The Psychology of the Individual)."
+#image "img4439"
 
 <div class="topsection">	
 	<div class="figure">

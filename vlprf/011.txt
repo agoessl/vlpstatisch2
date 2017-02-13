@@ -2,13 +2,13 @@
 #title "VLP011"
 #type "post"
 #header "A pair of Bellows "
-#figcaption "Heine-Hadmersleben, Apparate"
+#figcaption "Hydrostatische Waage"
 #source "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
 #people "Hering, Karl Ewald Konstantin (1834-1918)"
 #sites "Physiological Institute, University of Leipzig (1877)"
-#literature "Westphal, Rudolf. 1865. Geschichte der alten und mittelalterlichen Musik. Breslau: F. E. C. Leuckart (Staatliches Institut für Musikforschung)"
+#literature "Lange, Carl. 1887. Ueber Gemüthsbewegungen. Eine psycho-physiologische Studie. Leipzig: Thomas"
 #comment "Przybyszewski, who was one of Waldeyer's students, made his literary debut in 1892 with Zur Psychologie des Individuums (The Psychology of the Individual)."
-#image "img4748"
+#image "img26707"
 
 <div class="topsection">	
 	<div class="figure">

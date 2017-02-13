@@ -1,3 +1,5 @@
+# Script für RubyFrontier
+
 import random as r
 import datetime as dt
 

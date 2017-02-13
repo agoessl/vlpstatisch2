@@ -1,14 +1,14 @@
 #date "2017-02-13"
 #title "VLP083"
 #type "post"
-#header "A pair of Bellows "
-#figcaption "Rümkersche Körnerwaage"
+#header "Rümker's balance for grain"
+#figcaption "Hydrostatische Waage"
 #source "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
 #people "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
 #sites "Physiological Institute, University of Leipzig (1909)"
 #literature "Lange, Carl. 1887. Ueber Gemüthsbewegungen. Eine psycho-physiologische Studie. Leipzig: Thomas"
-#comment "According to Przybyszewski, one effect of excess in the brain caused by inhibition is a pathologically increased sensitivity."
-#image "img26707"
+#comment "In the late 1840s, the pathologist Rudolf Virchow recognized that most of the cells in the brain could be categorized into two distinct groups."
+#image "img26820"
 
 <div class="topsection">	
 	<div class="figure">

@@ -1,14 +1,14 @@
 #date "2017-02-13"
 #title "VLP047"
 #type "post"
-#header "Hydrostatic balance"
-#figcaption "Rümkersche Körnerwaage"
+#header "Treshingmashine"
+#figcaption "Strube- Schlanstedt: Ausdreschen der Vermehrungsparzellen des Zuchtgartens mittels einer Spezialdreschmaschine"
 #source "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
-#people "Hering, Karl Ewald Konstantin (1834-1918)"
+#people "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
 #sites "Physiological Institute, University of Leipzig (1909)"
-#literature "Westphal, Rudolf. 1865. Geschichte der alten und mittelalterlichen Musik. Breslau: F. E. C. Leuckart (Staatliches Institut für Musikforschung)"
-#comment "According to Przybyszewski, one effect of excess in the brain caused by inhibition is a pathologically increased sensitivity."
-#image "img26678"
+#literature "Aeby, Christoph. 1862. Untersuchungen über die Fortpflanzungsgeschwindigkeit der Reizung in der quergestreiften Muskelfaser. Braunschweig: George Westermann"
+#comment "By 1900 neuroscientists had established the image of a neural-network brain, whereas their knowledge about glial cells was still at the level of 'nerve glue."
+#image "img26820"
 
 <div class="topsection">	
 	<div class="figure">

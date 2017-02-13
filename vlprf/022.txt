@@ -5,10 +5,10 @@
 #figcaption "Heine-Hadmersleben, Apparate"
 #source "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
 #people "Hering, Karl Ewald Konstantin (1834-1918)"
-#sites "Physiological Institute, University of Leipzig (1909)"
+#sites "Physiological Institute, University of Leipzig (1877)"
 #literature "Aeby, Christoph. 1862. Untersuchungen über die Fortpflanzungsgeschwindigkeit der Reizung in der quergestreiften Muskelfaser. Braunschweig: George Westermann"
-#comment "In the late 1840s, the pathologist Rudolf Virchow recognized that most of the cells in the brain could be categorized into two distinct groups."
-#image "img4748"
+#comment "By 1900 neuroscientists had established the image of a neural-network brain, whereas their knowledge about glial cells was still at the level of 'nerve glue."
+#image "img26707"
 
 <div class="topsection">	
 	<div class="figure">

@@ -1,14 +1,14 @@
 #date "2017-02-13"
 #title "VLP092"
 #type "post"
-#header "Hydrostatic balance"
-#figcaption "Hydrostatische Waage"
+#header "Machines"
+#figcaption "Blasebalg"
 #source "Gscheidlen, Richard. 1876. Physiologische Methodik: Ein Handbuch der Praktischen Physiologie. Braunschweig: Vieweg & Sohn"
-#people "Hering, Karl Ewald Konstantin (1834-1918)"
-#sites "Physiological Institute, University of Leipzig (1877)"
+#people "Ludwig, Carl [Karl] Friedrich Wilhelm (1816-1895)"
+#sites "Physiological Institute, University of Leipzig (1909)"
 #literature "Westphal, Rudolf. 1865. Geschichte der alten und mittelalterlichen Musik. Breslau: F. E. C. Leuckart (Staatliches Institut für Musikforschung)"
 #comment "According to Przybyszewski, one effect of excess in the brain caused by inhibition is a pathologically increased sensitivity."
-#image "img4439"
+#image "img4407"
 
 <div class="topsection">	
 	<div class="figure">

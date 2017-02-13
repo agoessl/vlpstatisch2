@@ -1,14 +1,14 @@
 #date "2017-02-13"
 #title "VLP016"
 #type "post"
-#header "Hydrostatic balance"
-#figcaption "Blasebalg"
+#header "A pair of Bellows "
+#figcaption "Heine-Hadmersleben, Apparate"
 #source "Hillmann, Paul. 1910. Die deutsche landwirtschaftliche Pflanzenzucht. Berlin: Deutsche Landwirtschafts-Gesellschaft"
 #people "Hering, Karl Ewald Konstantin (1834-1918)"
 #sites "Physiological Institute, University of Leipzig (1877)"
-#literature "Westphal, Rudolf. 1865. Geschichte der alten und mittelalterlichen Musik. Breslau: F. E. C. Leuckart (Staatliches Institut für Musikforschung)"
+#literature "Lange, Carl. 1887. Ueber Gemüthsbewegungen. Eine psycho-physiologische Studie. Leipzig: Thomas"
 #comment "According to Przybyszewski, one effect of excess in the brain caused by inhibition is a pathologically increased sensitivity."
-#image "img26678"
+#image "img4748"
 
 <div class="topsection">	
 	<div class="figure">
