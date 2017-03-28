@@ -45,13 +45,14 @@ myMonth = str(myNow.month).rjust(2, "0")
 myYear = str(myNow.year)
 myDate = myYear + "-" + myMonth + "-" + myDay
 
-myContent = """<div class="figure">
-		<img src="images/{{ page.image }}.jpg" width="auto" height="auto" class="fig" />
+myContent = """<div class="topsection">
+    <div class="figure">
+		<img src="images/{{page.image}}.jpg" width="auto" height="auto" class="fig" />
 		<p class="figcaption">{{ page.figcaption }}</p>
 	</div>
 	<div class="head">
 		<h1>{{ page.title }}</h1>
-	 </div> <br clear="all" />
+	</div> <br clear="all" />
 </div> <!-- topsection -->
 
 <table>
@@ -72,11 +73,11 @@ myContent = """<div class="figure">
 			  <th>Description</th><td>{{ page.title }}</td>
 	</tr>
 				
-</table> <p>Hallo Welt</p>"""
+</table>"""
 
 print(myDate)
 
-for i in range(10):
+for i in range(100):
     dateihandle =           open("/Users/admin/Documents/git/vlp/vlpstatisch2/vlpjekyll/" + str(i+1).rjust(3, "0") + ".md", "w")
     dateihandle.write("---\n")
     dateihandle.write("layout: default\n")
