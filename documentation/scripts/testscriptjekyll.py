@@ -72,14 +72,14 @@ myContent = """<div class="figure">
 			  <th>Description</th><td>{{ page.title }}</td>
 	</tr>
 				
-</table>"""
+</table> <p>Hallo Welt</p>"""
 
 print(myDate)
 
 for i in range(10):
     dateihandle =           open("/Users/admin/Documents/git/vlp/vlpstatisch2/vlpjekyll/" + str(i+1).rjust(3, "0") + ".md", "w")
     dateihandle.write("---\n")
-    dateihandle.write("layout: \"default\"\n")
+    dateihandle.write("layout: default\n")
     dateihandle.write("date: \"" + myDate + "\"\n")
     myTitle = "VLP" + str(i+1).rjust(3, "0")
     dateihandle.write("title: \"" + myTitle + "\"\n")
@@ -100,7 +100,7 @@ for i in range(10):
     dateihandle.write("comment: \"" + myComment + "\"\n")
     myImage = (myImageList[r.randint(0, len(myImageList)-1)])
     dateihandle.write("image: \"" + myImage + "\"\n")
-    dateihandle.write("headline: VLP" + str(i+1).rjust(3, "0") + "\n")
+    dateihandle.write("headline: \"VLP" + str(i+1).rjust(3, "0") + "\"\n")
     dateihandle.write("---\n\n")
     dateihandle.write(myContent)
     dateihandle.close()

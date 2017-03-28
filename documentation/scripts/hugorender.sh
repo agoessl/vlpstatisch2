@@ -3,4 +3,4 @@ PATH=$PATH:/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo:/Users/admin/Docu
 
 #hugo server --theme=hugo_theme_robust --buildDrafts --config="~/Documents/git/vlp/vlpstatisch2/bookshelf/config.toml" 
 
-hugo --config="/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/config.toml"
+hugo --config="/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/config.toml" -v

@@ -45,7 +45,7 @@ myDate = myYear + "-" + myMonth + "-" + myDay
 
 print(myDate)
 
-for i in range(100):
+for i in range(10):
     dateihandle =           open("/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/content/post/" + str(i+1).rjust(3, "0") + ".md", "w")
     dateihandle.write("+++\n")
     dateihandle.write("date = \"" + myDate + "\"\n")

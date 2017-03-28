@@ -1,10 +1,10 @@
 contentDir = "/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/content/post/"
-publishDir = "/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/public/"
+publishDir = "/Applications/MAMP/htdocs/vlphugo/"
 layoutDir = "/Users/admin/Documents/git/vlp/vlpstatisch2/vlphugo/layouts/"
 publishDrafts = false
 disableRSS = true
 disableSitemap = true
 disable404 = true
-baseurl = ""
+baseurl = "localhost"
 languageCode = "de-de"
 title = "VLP Hugo"
