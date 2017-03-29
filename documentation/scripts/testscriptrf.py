@@ -77,7 +77,7 @@ myContent = """<div class="topsection">
 
 print(myDate)
 
-for i in range(100):
+for i in range(1000):
     dateihandle =           open("/Users/admin/Documents/git/vlp/vlpstatisch2/vlprf/" + str(i+1).rjust(3, "0") + ".txt", "w")
     dateihandle.write("#date \"" + myDate + "\"\n")
     myTitle = "VLP" + str(i+1).rjust(3, "0")

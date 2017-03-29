@@ -76,7 +76,7 @@ myContent = """<div class="topsection">
 
 print(myDate)
 
-for i in range(1000):
+for i in range(10):
     dateihandle =           open("/Users/admin/Documents/git/vlp/vlpstatisch2/vlptt2/templates/src/" + str(i+1).rjust(4, "0") + ".html", "w")
     myTitle = "VLP" + str(i+1).rjust(4, "0")
     dateihandle.write("[% META title = \"" + myTitle + "\"\n")
