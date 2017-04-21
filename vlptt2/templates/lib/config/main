@@ -1,4 +1,3 @@
 [% PROCESS config/page
 		+ config/url
-		message = "Hallo Welt!"
 -%]
